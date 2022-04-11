@@ -1,0 +1,24 @@
+.MortyIThinkWeAreInTheWrongDimension {
+  padding-top: 80px;
+  width: 100%;
+
+  &__text{
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+  }
+
+  &__image {
+    position: absolute;
+    bottom: 0;
+    left: -150px;
+    width: 873px;
+    height: 634px;
+
+    @media (max-width: 580px) {
+      left: -30%;
+      width: 150%;
+      height: auto;
+    }
+  }
+}
