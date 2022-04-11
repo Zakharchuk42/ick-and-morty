@@ -1,0 +1,29 @@
+.ToDoList {
+  display: flex;
+  justify-content: center;
+  padding: 140px 15px 80px 15px;
+
+  &__wrapper {
+    width: 800px;
+  }
+
+  &__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    border-bottom: 1px solid #dfe1e5;
+  }
+
+  &__title {
+    font-weight: 700;
+    font-size: 34px;
+  }
+
+  &__functional {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+  }
+
+}

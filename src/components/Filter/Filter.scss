@@ -1,0 +1,10 @@
+.Filter {
+  padding: 25px 0;
+  display: flex;
+  justify-content: center;
+
+  @media (max-width: 876px) {
+    flex-direction: column;
+    align-items: center;
+  }
+}

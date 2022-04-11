@@ -1,0 +1,18 @@
+.PersonFullInfo {
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+
+  @media (max-width: 768px) {
+    flex-direction: column;
+  }
+
+  &__right {
+    width: 40%;
+
+    @media (max-width: 768px) {
+      margin-top: 20px;
+      width: 100%;
+    }
+  }
+}
