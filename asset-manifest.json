@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca1b5e56.css",
+    "main.js": "/static/js/main.b2a3bc12.js",
+    "static/media/TypeMates  CeraRoundProLight.woff": "/static/media/TypeMates  CeraRoundProLight.7350cc889a4ac294f13c.woff",
+    "static/media/notFound.png": "/static/media/notFound.ed9fa0be01b38da56af4.png",
+    "index.html": "/index.html",
+    "main.ca1b5e56.css.map": "/static/css/main.ca1b5e56.css.map",
+    "main.b2a3bc12.js.map": "/static/js/main.b2a3bc12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca1b5e56.css",
+    "static/js/main.b2a3bc12.js"
+  ]
+}
