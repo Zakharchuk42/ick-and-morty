@@ -1,0 +1,1 @@
+export const selectCharactersData = (state) => state.charactersSliceReducer
